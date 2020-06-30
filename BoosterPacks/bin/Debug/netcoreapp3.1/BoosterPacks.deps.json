@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BoosterPacks/1.0.0": {
+        "dependencies": {
+          "BoosterPackClassLib": "1.0.0"
+        },
+        "runtime": {
+          "BoosterPacks.dll": {}
+        }
+      },
+      "BoosterPackClassLib/1.0.0": {
+        "runtime": {
+          "BoosterPackClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoosterPacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoosterPackClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

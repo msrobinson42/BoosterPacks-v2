@@ -1,0 +1,27 @@
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csprojAssemblyReference.cache
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfoInputs.cache
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfo.cs
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csproj.CoreCompileInputs.cache
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.deps.json
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+C:\Users\zachary.robinson\Documents\For Fun Projects\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.deps.json
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csprojAssemblyReference.cache
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfoInputs.cache
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfo.cs
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+C:\Users\Zach\Documents\GitHub\BoosterPacks\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.deps.json
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\bin\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csprojAssemblyReference.cache
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.csproj.CoreCompileInputs.cache
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfoInputs.cache
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.AssemblyInfo.cs
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.dll
+G:\BoosterPacks\BoosterPacks-f6e8488193a452fbf6b05b8937708e9f38b0b569\BoosterPackClassLib\obj\Debug\netcoreapp3.1\BoosterPackClassLib.pdb
